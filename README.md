@@ -1,1 +1,1 @@
-# Wrirting Code in C++ programming language
+# Code is in C++ programming language
